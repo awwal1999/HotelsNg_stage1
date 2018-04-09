@@ -1,0 +1,33 @@
+body {
+	background-color: #2F80ED;
+	font-family: roboto;
+	color: #ffffff;
+	text-align: center;
+}
+h2 {
+	font-size: 72px;
+	color: #75F256;
+}
+.timeFormat {
+	color: #e0e0e0;
+	font-size: 24px;
+	margin: 0px
+}
+.time {
+	font-size: 24px;
+}
+.month {
+	font-size: 36px;
+	color: #f2f2f2;
+	margin: 0px;
+}
+.day {
+	font-size: 144px;
+	color: #f2f2f2;
+	margin: 0px;
+}
+.year {
+	color: #f2f2f2;
+	font-size: 96px;
+	margin: 0px;
+}
